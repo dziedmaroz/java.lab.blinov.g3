@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : vectors.xml
+    Created on : 30 Октябрь 2011 г., 18:48
+    Author     : lucian
+    Description:
+        Purpose of the document follows.
+-->
+
+<vectors>
+    <vector dimetion="2">
+        <x1>1</x1>
+        <x2>1</x2>
+    </vector>
+     <vector dimetion="2">
+        <x1>1</x1>
+        <x2>0</x2>
+    </vector>
+     <vector dimetion="2">
+        <x1>0</x1>
+        <x2>1</x2>
+    </vector>
+     <vector dimetion="2">
+        <x1>-1</x1>
+        <x2>1</x2>
+    </vector>
+     <vector dimetion="2">
+        <x1>1</x1>
+        <x2>-1</x2>
+    </vector>
+</vectors>
